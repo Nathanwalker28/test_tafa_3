@@ -1,0 +1,34 @@
+body {
+    margin: 0; padding: 0;
+}
+
+.box_1 {
+    height: 200px;
+    background-color: #f9683a;
+}
+
+.box_2 {
+    height: 200px;
+    background-color: #bef67a;
+}
+
+.box_3 {
+    height: 200px;
+    background-color: #ff8a50;
+}
+
+.box_4{
+    background-color: #870000;
+}
+
+.box_5{
+    background-color: #003d00;
+}
+
+.box_6{
+    background-color: #ffad42;
+}
+
+button {
+    height: 50px;
+}
